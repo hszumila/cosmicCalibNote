@@ -17,4 +17,13 @@ Holly Szumila-Vance.
 \newblock {{HPS Energy Calibration}} for the {{Spring}} 2015 {{Engineering
   Run}}, 6/8/16.
 
+\bibitem{charles_2014}
+Andrea Celentano and Gabriel Charles.
+\newblock Characterization of the ecal crystal light yield and amplification
+  chain, 8/19/14.
+
+\bibitem{baltzell_ecal_2015}
+Nathan Baltzell.
+\newblock {{ECal Pulse Fitting}}, 9/9/15.
+
 \end{thebibliography}

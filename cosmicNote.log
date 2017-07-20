@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 JUL 2017 14:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  20 JUL 2017 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -622,13 +622,13 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 92.
-<pics/cosmicSketch.png, id=21, 423.5825pt x 437.635pt>
+<pics/cosmicSketch.png, id=25, 423.5825pt x 437.635pt>
 File: pics/cosmicSketch.png Graphic file (type png)
 
 <use pics/cosmicSketch.png>
 Package pdftex.def Info: pics/cosmicSketch.png used on input line 97.
 (pdftex.def)             Requested size: 193.50076pt x 199.91888pt.
- <pics/cosmicPic.jpg, id=23, 1927.2pt x 2569.6pt>
+ <pics/cosmicPic.jpg, id=27, 1927.2pt x 2569.6pt>
 File: pics/cosmicPic.jpg Graphic file (type jpg)
 
 <use pics/cosmicPic.jpg>
@@ -638,43 +638,148 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 102.
  [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] (./cosmicNote.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]
+<pics/rayPassingVertically.pdf, id=44, 569.12625pt x 386.44376pt>
+File: pics/rayPassingVertically.pdf Graphic file (type pdf)
 
- [2 <./pics/cosmicSketch.png> <./pics/cosmicPic.jpg>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+<use pics/rayPassingVertically.pdf>
+Package pdftex.def Info: pics/rayPassingVertically.pdf used on input line 114.
+(pdftex.def)             Requested size: 344.005pt x 233.59575pt.
+ [2 <./pics/cosmicSketch.png> <./pics/cosmicPic.jpg>] <pics/rawfit2.pdf, id=58,
+ 569.12625pt x 549.05125pt>
+File: pics/rawfit2.pdf Graphic file (type pdf)
+
+<use pics/rawfit2.pdf>
+Package pdftex.def Info: pics/rawfit2.pdf used on input line 128.
+(pdftex.def)             Requested size: 215.0023pt x 207.41847pt.
+ <pics/rawfit3.pdf, id=59, 569.12625pt x 549.05125pt>
+File: pics/rawfit3.pdf Graphic file (type pdf)
+
+<use pics/rawfit3.pdf>
+Package pdftex.def Info: pics/rawfit3.pdf used on input line 130.
+(pdftex.def)             Requested size: 215.0023pt x 207.41847pt.
+ <pics/rawfit1.pdf, id=60, 569.12625pt x 549.05125pt>
+File: pics/rawfit1.pdf Graphic file (type pdf)
+
+<use pics/rawfit1.pdf>
+Package pdftex.def Info: pics/rawfit1.pdf used on input line 133.
+(pdftex.def)             Requested size: 215.0023pt x 207.41847pt.
+ <pics/rawfit4.pdf, id=61, 569.12625pt x 549.05125pt>
+File: pics/rawfit4.pdf Graphic file (type pdf)
+
+<use pics/rawfit4.pdf>
+Package pdftex.def Info: pics/rawfit4.pdf used on input line 135.
+(pdftex.def)             Requested size: 215.0023pt x 207.41847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--139
+
+ []
+
+
+Underfull \vbox (badness 2197) has occurred while \output is active []
+
+ [3 <./pics/rayPassingVertically.pdf, page is rotated 90 degrees>]
+<pics/Cry_45_0_Fit.png, id=119, 700.6175pt x 676.5275pt>
+File: pics/Cry_45_0_Fit.png Graphic file (type png)
+
+<use pics/Cry_45_0_Fit.png>
+Package pdftex.def Info: pics/Cry_45_0_Fit.png used on input line 143.
+(pdftex.def)             Requested size: 215.0023pt x 207.60515pt.
+ <pics/chi2.pdf, id=125, 569.12625pt x 386.44376pt>
+File: pics/chi2.pdf Graphic file (type pdf)
+
+<use pics/chi2.pdf>
+Package pdftex.def Info: pics/chi2.pdf used on input line 158.
+(pdftex.def)             Requested size: 215.0023pt x 145.98924pt.
+ <pics/chi2_dof.pdf, id=126, 569.12625pt x 386.44376pt>
+File: pics/chi2_dof.pdf Graphic file (type pdf)
+
+<use pics/chi2_dof.pdf>
+Package pdftex.def Info: pics/chi2_dof.pdf used on input line 160.
+(pdftex.def)             Requested size: 215.0023pt x 145.98924pt.
+
+
+LaTeX Warning: Reference `compare' on page 4 undefined on input line 165.
+
+<pics/cosmicGdiff.pdf, id=131, 569.12625pt x 367.3725pt>
+File: pics/cosmicGdiff.pdf Graphic file (type pdf)
+
+<use pics/cosmicGdiff.pdf>
+Package pdftex.def Info: pics/cosmicGdiff.pdf used on input line 168.
+(pdftex.def)             Requested size: 215.0023pt x 138.78456pt.
+
+<pics/cosmicMPVdiff.png, id=132, 1200.485pt x 774.895pt>
+File: pics/cosmicMPVdiff.png Graphic file (type png)
+
+<use pics/cosmicMPVdiff.png>
+Package pdftex.def Info: pics/cosmicMPVdiff.png used on input line 170.
+(pdftex.def)             Requested size: 215.0023pt x 138.77747pt.
+
+<pics/Cry_45_6.png, id=134, 700.6175pt x 676.5275pt>
+File: pics/Cry_45_6.png Graphic file (type png)
+ <use pics/Cry_45_6.png>
+Package pdftex.def Info: pics/Cry_45_6.png used on input line 179.
+(pdftex.def)             Requested size: 215.0023pt x 207.60515pt.
+
+<pics/Cry_45_6_Fit.png, id=135, 700.6175pt x 676.5275pt>
+File: pics/Cry_45_6_Fit.png Graphic file (type png)
+
+<use pics/Cry_45_6_Fit.png>
+Package pdftex.def Info: pics/Cry_45_6_Fit.png used on input line 181.
+(pdftex.def)             Requested size: 215.0023pt x 207.60515pt.
+
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [4 <./pics/rawfit2.pdf, page is rotated 90 degrees> <./pics/rawfit3.pdf, page 
+is rotated 90 degrees> <./pics/rawfit1.pdf, page is rotated 90 degrees> <./pics
+/rawfit4.pdf, page is rotated 90 degrees>] [5 <./pics/Cry_45_0_Fit.png> <./pics
+/chi2.pdf, page is rotated 90 degrees> <./pics/chi2_dof.pdf, page is rotated 90
+ degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
+
+ []
+
+[6 <./pics/cosmicGdiff.pdf, page is rotated 90 degrees> <./pics/cosmicMPVdiff.p
+ng>] (./cosmicNote.bbl [7 <./pics/Cry_45_6.png> <./pics/Cry_45_6_Fit.png>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+
+[8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
  (./cosmicNote.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
 Package rerunfilecheck Info: File `cosmicNote.out' has not changed.
-(rerunfilecheck)             Checksum: AF8D01731FBD334606F0118A5211AD72;175.
+(rerunfilecheck)             Checksum: 68E4540B6DABDB1D1541B5062D5E5A46;227.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
  ) 
 Here is how much of TeX's memory you used:
- 10344 strings out of 493014
- 156960 string characters out of 6133351
- 377580 words of memory out of 5000000
- 13546 multiletter control sequences out of 15000+600000
- 59221 words of font info for 205 fonts, out of 8000000 for 9000
+ 10545 strings out of 493014
+ 159533 string characters out of 6133351
+ 381401 words of memory out of 5000000
+ 13610 multiletter control sequences out of 15000+600000
+ 72924 words of font info for 291 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,10n,43p,962b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,43p,1099b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cosmicNote.pdf (3 pages, 1888678 bytes).
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/urw/palatino/uplri8a.pfb>
+Output written on cosmicNote.pdf (8 pages, 2123430 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 49195 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 55919 words of extra memory for PDF output out of 61914 (max. 10000000)
 
